@@ -23,5 +23,6 @@ public class Main {
         //my line
 
         System.out.println("Start task 3002");
+        System.out.println("Finish task 3002");
     }
 }
