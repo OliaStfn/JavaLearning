@@ -16,5 +16,6 @@ public class Main {
         String  surname= object.getSurname();
 
         obj.showInfo();
+        object.showInfo();
     }
 }
