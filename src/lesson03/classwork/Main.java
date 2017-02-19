@@ -19,6 +19,7 @@ public class Main {
         // new line 3
 
         System.out.println("Start task 3001");
+        System.out.priln("");
 
         obj.showInfo();
         object.showInfo();
