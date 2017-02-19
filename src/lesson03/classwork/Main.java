@@ -15,6 +15,8 @@ public class Main {
         String  name= object.getName();
         String  surname= object.getSurname();
 
+        // new test connection
+
         obj.showInfo();
         object.showInfo();
     }
