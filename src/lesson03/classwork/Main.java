@@ -21,5 +21,7 @@ public class Main {
         obj.showInfo();
         object.showInfo();
         //my line
+
+        System.out.println("Start task 3002");
     }
 }
