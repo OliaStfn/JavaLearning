@@ -36,7 +36,7 @@ private int day,month,year;
     public void showDate(){
         System.out.println("Date: "+day+"."+month+"."+year);
     }
-    //finish task4001
+    //finish Task 4001
 }
 
 
