@@ -16,7 +16,5 @@ public class Human {
         } catch (Exception e) {
             e.getMessage();
         }
-
     }
-
 }
