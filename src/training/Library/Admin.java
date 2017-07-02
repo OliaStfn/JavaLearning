@@ -19,8 +19,8 @@ public class Admin extends Human {
                  String address, String login, String password) {
         super(name, surname, year, month, day, phoneNumber, address, login, password);
         setId();
-        this.rating = rating;
-        this.countMark = countMark;
+        rating = 0;
+        countMark = 0;
     }
 
 
