@@ -1,4 +1,4 @@
-package Patterns.AbstractFactory;
+package Patterns.Creational.AbstractFactory;
 
 public interface IToyFactory {
     Cat getCat();

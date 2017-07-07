@@ -1,4 +1,4 @@
-package Patterns.Builder;
+package Patterns.Creational.Builder;
 
 public class Main {
     public static void main(String[] args) {

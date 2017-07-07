@@ -1,4 +1,4 @@
-package Patterns.Builder;
+package Patterns.Creational.Builder;
 
 public class Laptop {
     private String RAM;

@@ -1,4 +1,4 @@
-package Patterns.Builder;
+package Patterns.Creational.Builder;
 
 public class BussinessLaptopBuilder extends LaptopBuilder {
 
@@ -21,4 +21,5 @@ public class BussinessLaptopBuilder extends LaptopBuilder {
     public void setMonitor() {
         laptop.setMonitor("Samsung");
     }
+
 }

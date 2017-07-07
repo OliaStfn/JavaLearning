@@ -1,4 +1,4 @@
-package Patterns.FactoryMethod;
+package Patterns.Creational.FactoryMethod;
 
 public interface IThing {
     double getPrice();
