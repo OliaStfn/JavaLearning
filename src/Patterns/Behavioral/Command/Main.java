@@ -16,6 +16,7 @@ public class Main {
         HeroDeveloper heroDeveloper = new HeroDeveloper();
         ICommand commandA = new HeroDeveloperCommand("A", heroDeveloper);
         customer.addCommand(commandA);
+
         customer.signContractWithBoss();
     }
 }
